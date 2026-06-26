@@ -1,6 +1,11 @@
 
 **Before starting any work on this project, read `DESIGN.md`.**
 
+**To search the knowledge base, use the `/query` skill.**
+It runs `python3 query.py "<question>"` against the indexed
+markdown files in `docs/`. Use it whenever the user asks a
+question about the UN Staff Regulations and Rules.
+
 ## Guidelines
 
 ### 1. General guidelines
