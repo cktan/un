@@ -1,3 +1,7 @@
+---
+description: Query the UN Staff Regulations and Rules knowledge base
+---
+
 # Query the UN Staff Regulations knowledge base
 
 Run `python3 query.py "<args>"` from the project root
